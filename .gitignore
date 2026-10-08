@@ -1,0 +1,14 @@
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Jupyter generated files
+.ipynb_checkpoints/
+
+# Local/editor files
+.vscode/
+.idea/
+*.tmp
+*.log
